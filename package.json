@@ -1,0 +1,27 @@
+{
+  "name": "example-wsockets",
+  "version": "1.0.0",
+  "description": "Enlace al [tutorial](https://carlosazaustre.es/blog/websockets-como-utilizar-socket-io-en-tu-aplicacion-web/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozzrocker95/example-wsockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozzrocker95/example-wsockets/issues"
+  },
+  "homepage": "https://github.com/ozzrocker95/example-wsockets#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
